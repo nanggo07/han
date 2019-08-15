@@ -14,8 +14,9 @@
   <li>원고지에 글을 쓴다.</li></ol></p>
     
   <p style= "margin-top: 60px;">
- 
- <p><strong>논술문의 유의점</strong></p>
+ <img src="writing.jpeg">
+ <p style= "margin-top: 60px;">
+  <strong>논술문의 유의점</strong></p>
  <p style= "margin-top: 40px;">
 <ul><li>논지가 뚜렷해야 한다.</li>
   <li>태도를 분명히 밝혀야 한다.</li>
