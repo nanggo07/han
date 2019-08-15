@@ -26,7 +26,7 @@
    <li> 문단과 문장이 긴밀하게 연결되어야 한다.</li>
    <li>서,본,결의 3단 구성이다.</li>
    <li> 적절한 인용과 비유는 좋다.</li></ul>
-                         <p style= "margin-top: 90px;">
+                         </p style= "margin-top: 90px;">
 <a href="doggy file.html">글 잘쓰는 방법</a></p>
 
 
