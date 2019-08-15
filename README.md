@@ -1,7 +1,7 @@
 # 논술문
 <p><strong>논술문이란?</strong>
   <br>논술문은 제시된 주제에 대한 자신의 생각을 논리적으로 서술하는 글이다.</p>
- <p style= margin-top: 45px;">
+ <p style= "margin-top: 45px;">
  논: 논리적 과제해결
   <br>술: 언어표현</p>
  <p style= "margin-top: 45px;">
